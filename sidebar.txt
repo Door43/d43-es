@@ -1,0 +1,18 @@
+
+----
+
+**Door43**
+
+  * [[es:home|Door43 (es)]]
+
+**Resources**
+
+  * [[es:obs|Open Bible Stories (es)]]
+
+
+**Recent Changes**
+{{changes>ns = es}}
+
+**Latest Status**
+{{page>en:uwadmin:es:obs:status}}
+

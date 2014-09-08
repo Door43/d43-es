@@ -1,0 +1,52 @@
+====== Door43 (es) ======
+
+
+Bienvenidos a Door43, una plataforma abierta y colaborativa para crear, traducir y distribuir recursos con licencia libre, de discipulado en cualquier lenguaje.
+
+
+===== Recursos =====
+
+
+Estos son los recursos que hay disponibles en este momento para traducir y usar:
+
+
+* **[[http://door43.org/es/obs|Historias Bíblicas Libres]]**- Un mini-biblia visual en cualquier idioma, en formatos de texto, audio y video.
+
+
+* [[:en:obs:notes|Translation Notes]] - Traduccion y notas exegéticas para las Historias Bíblicas Libres.
+
+    * [[:en:lexicon|Léxico Bíblico Libre]]
+    * [[:en:library|Biblioteca Cristiana Libre]]
+    * [[:en:ta|Academia de Traducción]]
+
+
+==== Acerca de Door43 ====
+
+
+**[[http://door43.org/en/get-started|Cómo empezar]]** – Empezar a traducir 
+
+
+**[[http://door43.org/en/statement-of-faith|Declaración de Fe]]** – Declaración de Fe, con la que están de acuerdo los que colaboran con Door43.
+
+
+**[[http://door43.org/en/legal/license|Copyrights & Licencia]]** – Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creative Commons Attribution-ShareAlike 3.0 Unported]]. 
+
+
+**[[http://door43.org/en/syntax|Formateando el contenido]]** – Cómo hacer que el contenido tenga el aspecto que debe tener. 
+
+
+**[[http://door43.org/en/tips-tricks|Recetas & Trucos]]** – Atajos & formas de aumentar la eficacia.
+
+
+**[[http://door43.org/en/technical|Detalles Técnicos]]** – La tecnología que hay tras Door43.
+
+==== Extendiendo Door43 ====
+
+
+Door43 es un desarrollo activo, dado que se va ampliando la utilidad del contenido desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[http://door43.org/en/dev|Desarrollo de Door43]]**.
+
+
+----
+
+
+//“Orad… para que Dios nos abra **puerta** para la Palabra.” —Colosenses **4**:**3** //
