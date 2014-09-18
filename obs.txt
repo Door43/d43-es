@@ -1,32 +1,31 @@
-====== Historias Bíblicas Libres (es) ======
+====== Historias BÃ­blicas Libres (es) ======
 
 
-**50 historias clave de la Biblia, desde la Creación hasta Apocalipsis, para evangelismo y discipulado, en texto, audio y video, en cualquier teléfono movil, en cualquier lenguaje, totalmente gratis.** 
+**50 historias clave de la Biblia, desde la CreaciÃ³n hasta Apocalipsis, para evangelismo y discipulado, en texto, audio y video, en cualquier telÃ©fono movil, en cualquier lenguaje, totalmente gratis.** 
 ==== Una Mini-Biblia visual Gratis y Libre ====
 
 
-Historias Bíblicas Libres están desarrolladas por [[http://distantshoresmedia.org|Distant Shores Media]] y la Comunidad Door43 world missions. Las ilustraciones son © [[http://www.sweetpublishing.com|Sweet Publishing]] y todo el proyecto, tanto de texto como de ilustraciones están publicados y puestos a su disposición bajo licencia [[http://creativecommons.org/licenses/by-sa/3.0|Creative Commons Attribution-ShareAlike 3.0 Unported License]], por favor, haga referencia a [[http://openbiblestories.com|http://openbiblestories.com]].
+Historias Bí­blicas Libres están desarrolladas por [[http://distantshoresmedia.org|Distant Shores Media]] y la Comunidad Door43 world missions. Las ilustraciones son © [[http://www.sweetpublishing.com|Sweet Publishing]] y todo el proyecto, tanto de texto como de ilustraciones estÃ¡n publicados y puestos a su disposición bajo licencia [[http://creativecommons.org/licenses/by-sa/3.0|Creative Commons Attribution-ShareAlike 3.0 Unported License]], por favor, haga referencia a [[http://openbiblestories.com|http://openbiblestories.com]].
+
+==== CÃ³mo puede ayudar ====
 
 
-==== Cómo puede ayudar ====
+Sientase libre de unirse al equipo de traduccion de Historias BÃ­blicas Libres y ayudar a terminar una traducciÃ³n o empezar una nueva. EncontrarÃ¡ aquÃ­ **[[:en:get-started|como empezar]]** a traducir las Historias BÃ­blicas Libres.
 
 
-Sientase libre de unirse al equipo de traduccion de Historias Bíblicas Libres y ayudar a terminar una traducción o empezar una nueva. Encontrará aquí **[[:en:get-started|como empezar]]** a traducir las Historias Bíblicas Libres.
+Si lo prefiere, puede descargar //[[http://door43.org/â_media/âen/âobs/âen-obs-v3_1-2014-08-06.zip|la Ãºltima versiÃ³n en inglÃ©s de OBS]] del texto fuente en InglÃ©s como archivo zip y empezar la traducciÃ³n offline, en cualquier ordenador o dispositivo movil. O puede descargar [[http://âdoor43.org/â_media/âen/âobs/âen-obs-notes-v3_1-2014-08-06.zip|la ultima versiÃ³n en ingles de OBS + notas de traducciÃ³n]] para ayudar con su traducciÃ³n. â TambiÃ©n puede descargar la [[https://âapi.unfoldingword.org/âobs/âtxt/â1/âobs-en-3_1.pdf|ultima versiÃ³n en ingles de OBS en formato PDF]].// â
 
 
-Si lo prefiere, puede descargar //[[http://door43.org/​_media/​en/​obs/​en-obs-v3_1-2014-08-06.zip|la última versión en inglés de OBS]] del texto fuente en Inglés como archivo zip y empezar la traducción offline, en cualquier ordenador o dispositivo movil. O puede descargar [[http://​door43.org/​_media/​en/​obs/​en-obs-notes-v3_1-2014-08-06.zip|la ultima versión en ingles de OBS + notas de traducción]] para ayudar con su traducción. ​ También puede descargar la [[https://​api.unfoldingword.org/​obs/​txt/​1/​obs-en-3_1.pdf|ultima versión en ingles de OBS en formato PDF]].// ​
+Si quiere saber lo que ha cambiado a lo largo del desarrollo del las Historias BÃ­blicas Libres, visite:
 
 
-Si quiere saber lo que ha cambiado a lo largo del desarrollo del las Historias Bíblicas Libres, visite:
+[[https://âdoor43.org/âobs-diffs/âver_1-to-ver_3.html|Cambios de la Version 1 a la 3]]
 
 
-[[https://​door43.org/​obs-diffs/​ver_1-to-ver_3.html|Cambios de la Version 1 a la 3]]
+[[https://âdoor43.org/âobs-diffs/âver_2-to-ver_3.html|Cambios de la Version 2 a la 3]]
 
 
-[[https://​door43.org/​obs-diffs/​ver_2-to-ver_3.html|Cambios de la Version 2 a la 3]]
-
-
-Si quiere acceder a los enlaces de descarga para imágenes o video clips haga click [[:%E2��en:%E2��obs:%E2��resources|aquí]].
+Si quiere acceder a los enlaces de descarga para imÃ¡genes o video clips haga click [[:%E2en:%E2obs:%E2resources|aquÃ­]].
 
 
 {{page>es:obs:stories}}
