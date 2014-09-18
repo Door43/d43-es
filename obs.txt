@@ -19,6 +19,7 @@ Si lo prefiere, puede descargar //[[http://door43.org/​_media/​en/​obs/​
 Si quiere saber lo que ha cambiado a lo largo del desarrollo del las Historias Bíblicas Libres, visite:
  		
  		  [[https://​door43.org/​obs-diffs/​ver_1-to-ver_3.html|Cambios de la Version 1 a la 3]]
+
  		  [[https://​door43.org/​obs-diffs/​ver_2-to-ver_3.html|Cambios de la Version 2 a la 3]]
  		
  		Si quiere acceder a los enlaces de descarga para imágenes o video clips haga click [[:​en:​obs:​resources|aquí]].
