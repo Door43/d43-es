@@ -11,7 +11,16 @@ Historias Bíblicas Libres están desarrolladas por [[http://distantshoresmedia.
 ==== Cómo puede ayudar ====
 
 
-Sientase libre de unirse al equipo de traduccion de Historias Bíblicas Libres y ayudar a terminar una traducción o empezar una nueva. Encontrará aquí **[[:en:get-started|como empezar]]** a traducir las Historias Bíblicas Libres. Si lo prefiere, puede //[[http://door43.org/_media/en/obs/obs-en.zip|descargar]] el texto fuente en Inglés como un archivo zip y empezar la traducción offline, en cualquier ordenador o dispositivo movil.// 
+Sientase libre de unirse al equipo de traduccion de Historias Bíblicas Libres y ayudar a terminar una traducción o empezar una nueva. Encontrará aquí **[[:en:get-started|como empezar]]** a traducir las Historias Bíblicas Libres. 
 
+
+Si lo prefiere, puede descargar //[[http://door43.org/​_media/​en/​obs/​en-obs-v3_1-2014-08-06.zip|la última versión en inglés de OBS]] del texto fuente en Inglés como archivo zip y empezar la traducción offline, en cualquier ordenador o dispositivo movil. O, puede descargar [[http://​door43.org/​_media/​en/​obs/​en-obs-notes-v3_1-2014-08-06.zip|la ultima versión en ingles de OBS + notas de traducción]] para ayudar con su traducción. ​ También puede descargar la [[https://​api.unfoldingword.org/​obs/​txt/​1/​obs-en-3_1.pdf|ultima versión en ingles de OBS en formato PDF]].// ​
+
+Si quiere saber lo que ha cambiado a lo largo del desarrollo del las Historias Bíblicas Libres, visite:
+ 		
+ 		  * [[https://​door43.org/​obs-diffs/​ver_1-to-ver_3.html|Cambios de la Version 1 a la 3]]
+ 		  * [[https://​door43.org/​obs-diffs/​ver_2-to-ver_3.html|Cambios de la Version 2 a la 3]]
+ 		
+ 		Si quiere acceder a los enlaces de descarga para imágenes o video clips haga click [[:​en:​obs:​resources|aquí]].
 
 {{page>es:obs:stories}}
