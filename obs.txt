@@ -20,10 +20,10 @@ Si lo prefiere, puede descargar //[[http://door43.org/â_media/âen/â
 Si quiere saber lo que ha cambiado a lo largo del desarrollo del las Historias Bíblicas Libres, visite:
 
 
-[[https://âdoor43.org/âobs-diffs/âver_1-to-ver_3.html|Cambios de la Versión 1 a la 3]]
+[[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Cambios de la Versión 1 a la 3]]
 
 
-[[https://âdoor43.org/âobs-diffs/âver_2-to-ver_3.html|Cambios de la Versión 2 a la 3]]
+[[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Cambios de la Versión 2 a la 3]]
 
 
 Si quiere acceder a los enlaces de descarga para imágenes o video-clips haga click [[:e2-en:e2-obs:e2-resources|aquí]].
