@@ -33,7 +33,7 @@ Estos son los recursos que hay disponibles en este momento para traducir y usar:
 **[[http://door43.org/en/translation-guidelines|Directrices de traducción]]**- Principios y procedimientos que deben seguir todos los que colaboran.
 
 
-**[[http://door43.org/en/legal/license|Copyrights & Licencia]]** – Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creativa Comunes Attribution-ShareAlike 3.0 Unported]].
+**[[http://door43.org/en/legal/license|Derechos de Autoría y Llicencias]]** – Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creative Commons Attribution-ShareAlike 3.0 Unported]].
 
 
 **[[http://door43.org/en/syntax|Diseñar el contenido]]** – Cómo hacer que el contenido tenga el aspecto que debe tener.
@@ -48,10 +48,10 @@ Estos son los recursos que hay disponibles en este momento para traducir y usar:
 ==== Extendiendo Door43 ====
 
 
-Door43 es un desarrollo activo, según ampliamos la utilidad del contenido, desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[http://door43.org/en/dev|Desarrollo de Door43]]**.
+Door43; es un desarrollo activo, según ampliamos la utilidad del contenido, desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[http://door43.org/en/dev|Desarrollo de Door43]]**.
 
 
 ----
 
 
-//“Orad… para que Dios nos abra **puerta**  para la Palabra.” —Colosenses **4**:**3**  //
+//" Ora para que Dios nos abra **puerta**  para la Palabra.” —Colosenses **4**:**3**  //
