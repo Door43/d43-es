@@ -48,7 +48,7 @@ Estos son los recursos que hay disponibles en este momento para traducir y usar:
 ==== Extendiendo Door43 ====
 
 
-Door43 es un desarrollo activo, dado que se va ampliando la utilidad del contenido desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[http://door43.org/en/dev|Desarrollo de Door43]]**.
+Door43 es un desarrollo activo, según ampliamos la utilidad del contenido, desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[http://door43.org/en/dev|Desarrollo de Door43]]**.
 
 
 ----
