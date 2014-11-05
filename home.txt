@@ -13,12 +13,12 @@ Estos son los recursos que hay disponibles en este momento para traducir y usar:
 * **[[http://door43.org/es/obs|Historias Bíblicas Libres]]**- Una visual mini Biblia en cualquier idioma, en formatos de texto, audio y vídeo, libre de derechos de autoría.
 
 
-* [[:en:obs:notes|Notas de Traducción]] - Traducción y notas exegéticas para las Historias Bíblicas Libres, de autoría.
+* [[:en:obs:notes|Notas de Traducción]] - Traducción y notas exegéticas para las Historias Bíblicas, Libres de autoría.
 
 
-    * [[:en:lexicon|Léxico Bíblico Libre]]
-    * [[:en:library|Biblioteca Cristiana Libre]]
-    * [[:en:ta|Academia de Traducción]]
+    * [[:en:lexicon|Léxico Bíblico Libre]]- Un léxico Bíblico, destinado para integrar, con Las Historias Bíblicas y traducciones Bíblicas, libre de autoría.
+    * [[:en:library|Biblioteca Cristiana Libre-]] Un catalogo, de recursos Bíblicos, sin derechos de autor.
+    * [[:en:ta|Academia de Traducción]]- Un modulo, una base de medios informativo, (donde la persona estudia a su paso), cursos de entrenamiento para traductores y para facilitar las traducciones.
 
 
 ==== Acerca de Door43 ====
