@@ -52,7 +52,7 @@
     - [[:es:obs:50|Jesús regresa]]
 
 
-    * [[:es:obs:front-matter|Front Matter]]
-    * [[:es:obs:back-matter|Back Matter]]
-    * [[:es:obs:app_words|Mobile App Words]]
+    * [[:es:obs:front-matter|Preliminares]]
+    * [[:es:obs:back-matter|Apendice]]
+    * [[:es:obs:app_words|Móvil App Words]]
 
