@@ -1,3 +1,5 @@
+
+
     - [[:es:obs:01|La Creación]]
     - [[:es:obs:02|El pecado entra en el Mundo]]
     - [[:es:obs:03|El Diluvio]]
@@ -48,6 +50,9 @@
     - [[:es:obs:48|Jesús es el Mesías Prometido]]
     - [[:es:obs:49|El Nuevo Pacto de Dios]]
     - [[:es:obs:50|Jesús regresa]]
-    * [[es:obs:front-matter|Front Matter]]
-    * [[es:obs:back-matter|Back Matter]]
-    * [[es:obs:app_words|Mobile App Words]]
+
+
+    * [[:es:obs:front-matter|Front Matter]]
+    * [[:es:obs:back-matter|Back Matter]]
+    * [[:es:obs:app_words|Mobile App Words]]
+
