@@ -16,6 +16,7 @@ Esta obra está puesta bajo una licencia internacional de Creative Commons Attri
 Usted es libre de:
 
 * **Compartir** — copiar y redistribuir el material en cualquier medio o formato
+
 * **Adaptar** — mezclar, transformar, y construir sobre el material para cualquier propósito, incluso comercialmente.
 
 Bajo las siguientes condiciones:
