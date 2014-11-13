@@ -54,5 +54,5 @@
 
     * [[:es:obs:front-matter|Preliminares]]
     * [[:es:obs:back-matter|Apendice]]
-    * [[:es:obs:app_words|Móvil App Words]]
+    * [[:es:obs:app_words|Palabras para las App de Móvil App]]
 
