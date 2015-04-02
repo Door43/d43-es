@@ -1,0 +1,2 @@
+<nspages es:obs:notes:questions -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Spanish Questions Pages:"​>
+
