@@ -25,7 +25,7 @@ Estos son los recursos que hay disponibles en este momento para traducir y usar
 
 **[[http://door43.org/en/syntax|Diseñar el contenido]]** – Cómo hacer que el contenido tenga el aspecto que debe tener.
 
-**[[http://door43.org/en/tips-tricks|Consejos & Trucos]]** – Atajo Y formas de aumentar la eficiencia.
+**[[http://door43.org/en/tips-tricks|Consejos & Trucos]]** – Atajo y formas de aumentar la eficiencia.
 
 **[[http://door43.org/en/technical|Detalles Técnicos]]** – La tecnología que hay tras Door43.
 
