@@ -15,7 +15,7 @@ Estos son los recursos que hay disponibles en este momento para traducir y usar
 
 ==== Acerca de Door43 ====
 
-**[[es:get-started]** – Empezar a traducir
+**[[es:get-started]]** – Empezar a traducir
 
 **[[es:statement-of-faith|Declaración de Fe]]** – Declaración de Fe, con la que están de acuerdo, los que colaboran con Door43.
 
