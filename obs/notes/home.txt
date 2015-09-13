@@ -1,2 +1,3 @@
 <nspages es:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Spanish Notes Pages:"​>
 
+<nspages es:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="List of all Spanish OBS Notes Pages:">
