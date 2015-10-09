@@ -17,10 +17,6 @@ Todo el contenido para este espacio esta disponible en [[https://github.com/Door
 
 {{changes>ns = es}}
 
-**Último estado**
-
-{{page>en:uwadmin:es:obs:status}}
-
 **Información del Lenguaje**
 
 [[http://www.ethnologue.com/language/es|Ethnologue data]]
