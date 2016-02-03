@@ -1,0 +1,26 @@
+====== Asaph ======
+
+===== Facts: =====
+
+Asaph was a Levite priest and gifted musician who wrote the music for the psalms of King David. He also wrote his own psalms.
+
+  * Asaph was appointed by King David to be one of three musicians who were responsible for the "service of song" in the temple.
+  * Some of these songs were also prophecies.
+  * Asaph trained his sons and they and other descendants carried on this responsibility, playing instruments and prophesying in the temple.
+  * Psalms 50 and 73-83 are said to be from Asaph. It may be that some of these psalms were also written by his family members.
+
+(Translation suggestions: [[:es:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:es:obe:kt:prophet]], [[:es:obe:other:psalm]], [[:es:obe:other:descendant]], [[:es:obe:other:lute]], [[:es:obe:other:harp]])
+
+===== Bible References: =====
+
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]*asaph[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
