@@ -1,22 +1,68 @@
+~~NOCACHE~~ **Door43 **
 
-----
+   * [[:es:home|Home (es)]]
 
-**Door43**
+**Help**
 
-   * [[:es:home|Door43 (es)]]
+  * [[:es:ta|translationAcademy]]
+  * [[:es:get-started|How to Get Started]]
+  * [[:es:obs:help|Open Bible Stories Help]]
 
 **Recursos**
 
-  * [[:es:obs|Historias Bíblicas Libres (es)]]
+  *  [[:es:obs|Historias Bíblicas Libres ]]
+      * [[es:obs:notes|translationNotes]]
+      * [[es:obs:notes:questions:home|translationQuestions]]
+      * [[es:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[es:bible:intro|Bible (es)]]
+      * [[es:ulb:ep:home|Unlocked Literal Bible]]
+      * [[es:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[es:bible:notes:home|translationNotes]]
+      * [[es:bible:questions:comprehension:home|translationQuestions]]
+      * [[es:obe:home|translationWords]]
+  * [[es:lexicon|Open Bible Lexicon]]
+  *  [[es:library|Open Christian Library]]
+      * [[es:pet|Plain English Translation]]
+      * [[es:library:t4t:home|Translation for Translators]]
+  * [[es:ta|translationAcademy]]
+      * [[es:ta:vol1:intro:toc_intro|Introduction]]
+      * [[es:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[es:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[es:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[es:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+**About Door43**
+
+  * [[es:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[es:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[es:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Descargas**
 
 Todo el contenido para este espacio esta disponible en [[https://github.com/Door43/d43-es|d43-es repository]]. Para descargar en archivo zip, pulsar [[https://github.com/Door43/d43-es/archive/master.zip|d43-es.zip]]
 
-**Cambios recientes**
+**Cambios Recientes**
 
 {{changes>ns = es}}
 
 **Información del Lenguaje**
 
 [[http://www.ethnologue.com/language/es|Ethnologue data]]
+
+
